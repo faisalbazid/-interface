@@ -1,0 +1,125 @@
+[
+    {
+
+        "id": "WTV8833XC1M",
+        "designation":"Lave Linge BEKO",
+        "prix":"3800",
+        "catégorie":" Lave Linge",
+        "disponibilite":["Tanger","Tétouan","Hoceima"],
+        "fournisseur":
+            {"raisonSocial" : "LA MAISON DE LA MÉNAGÈRE",
+            "adress" : "Mers Soukar, route de Rabat  Mediouna"}
+          
+         },
+           
+                        
+                        
+      
+   
+    {
+
+        "id": "HAIERHCE103F",
+        "designation":"Congelateur",
+        "prix":"1800",
+        "catégorie":"Froid",
+        "disponibilite":["Tadla","Azilal"],
+        "fournisseur":
+            {"raisonSocial" : "COMPANIAMED",
+            "adress" : "Bvd Abdellah Ben Yassine Casablanca"}
+          
+            
+             
+                     }
+    
+    ,
+
+    
+    {
+
+        "id": "FSS53000DW",
+        "designation":"Cuisiniere BEKO",
+        "prix":"2500",
+        "catégorie":"Cuisiniere",
+        "disponibilite":["Rabat","Sale"],
+        "fournisseur": 
+            {"raisonSocial" : "ATLAS GLOBE ELECTRO",
+            "adress" : "John Kennedy, Souissi, Rabat"}
+          
+
+        }
+    
+    ,
+
+
+    {
+
+        "id": "CSOH9A2DES",
+        "designation":"Seche Linge CANDY",
+        "prix":"4000",
+        "catégorie":"Seche Linge",
+        "disponibilite":["Meknes","fes"],
+        "fournisseur":{"raisonSocial":"BIOUGNACH ÉQUIPEMENTS","adress":"Hay AlMaghreb AlArabi, Massira II, Témara"} 
+    }
+    ,
+    {
+
+        "id": "KTR15NWFA",
+        "designation":"BOSCH Série 2 Réfrigérateur Table top Blanc",
+        "prix":"2600",
+        "catégorie":"Refrigerateur",
+        "disponibilite":["Laayoune","Boujdour","eddakhla"],
+        "fournisseur":{"raisonSocial":"LA MAISON DE LA MÉNAGÈRE","adress":" 43, Mansour Dahbi, TANGER"} 
+    }
+    ,
+    {
+
+        "id": "VDP137LW",
+        "designation":"Lave vaisselle VEDETTE",
+        "prix":"2700",
+        "catégorie":"Lave vaisselle",
+        "disponibilite":["Tanger","laarche"],
+        "fournisseur":{"raisonSocial":"SOCIMAR","adress":"24, Rue la Fontaine CASA"}
+    }
+    ,
+    {
+
+        "id": "TO2064",
+        "designation":"Mini four SEVERIN",
+        "prix":"500",
+        "catégorie":"Cuisson",
+        "disponibilite":["agadir","marrakech"],
+        "fournisseur":{"raisonSocial":"BIG DISTRIBUTION","adress":"place de la Liberté, 26000, Settat"} 
+    }
+    ,
+    {
+
+        "id": "BCI6652W",
+        "designation":"Cuisiniere BRANDT",
+        "prix":"6200",
+        "catégorie":" Cuisiniere ",
+        "disponibilite":["oujda","Saïdia"],
+        "fournisseur":{"raisonSocial":"ATLAS GLOBE ELECTRO","adress":" 46, rue Oqba Bnou Nafia berrechid"} 
+    }
+    ,
+    {
+
+        "id": "DISR57M19CAEU",
+        "designation":"Lave vaisselle INDESIT        ",
+        "prix":"2990",
+        "catégorie":" Lave vaisselle ",
+        "disponibilite":["casa","rabat","Kenitra"],
+        "fournisseur":{"raisonSocial":"RANIMOB","adress":"av. Mly Rachid, rte. de Sefrou, Fès"} 
+    }
+    ,
+    {
+
+        "id": "SN678X36TE",
+        "designation":"Lave vaisselle SIEMENS",
+        "prix":"14000",
+        "catégorie":" Lave vaisselle ",
+        "disponibilite":["safi","eljadida"],
+        "fournisseur":{"raisonSocial":"RANIMOB","adress":" Avenue Mohamed V ville nouvelle, 85000, AGADIR"} 
+    }
+  
+]
+
