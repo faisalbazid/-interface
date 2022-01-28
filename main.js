@@ -1,5 +1,5 @@
 
-       $(document).ready(function(){
+       $(document).ready(function(){                            //link jquery with fichier json
         $.getJSON("produits.json", function(data){
          var tab = '';
          
@@ -17,7 +17,7 @@
         });
     });
 
-    $(document).ready(function(){
+    $(document).ready(function(){                                   //for recherche 
         $("#search").on("keyup",function(){
     var value = $(this).val().toLowerCase();
 
@@ -29,7 +29,7 @@
 
     });
 
-
+//sort
 
     $('th').click(function(){
       var table = $(this).parents('table').eq(0)
